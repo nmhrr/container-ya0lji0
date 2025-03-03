@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "nmhrr",
+  "repo": "container-ya0lji0",
+  "name": "nmhrr",
+  "email": "applegordo@gmail.com",
+}
